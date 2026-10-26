@@ -6,7 +6,7 @@
 const DATA_UNDANGAN = {
   "kategori": "khitan",
   "kode": "umamv3",
-  "siteUrl": "https://NAMAANDA.github.io/NAMA-REPO/khitan-umam/",
+  "siteUrl": "https://ddarkan03-ux.github.io/Khitan-V3/",
   "firebase": { "apiKey": "AIzaSyBEA92p-xAjSyvDTWT09-zsuEDyjZg2dZw", "projectId": "undangan-saya" },
   "ucapanPublik": true,
   "model": "Khitan 3 - Lentera Zamrud",
